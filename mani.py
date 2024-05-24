@@ -13,6 +13,8 @@ while True:
     else:
         break
 
+print(f'{'-'*25}LISTA DE TAREFAS{'-'*25}\n')
+
 # exibe a lista de tarefas
 for tarefa in tarefas:
     print(tarefa)
